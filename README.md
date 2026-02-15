@@ -20,7 +20,8 @@ This repo serves as a visual record of my learning journey and helps track my co
 
           🙏 Acknowledgement
 
-          I would like to express my appreciation to a friend who generously provided temporary access to their Microsoft Fabric environment, so I could complete the               hands‑on components of this DataChallenge.
+          I want to express my appreciation to a friend who generously provided temporary access to their Microsoft Fabric environment, 
+          allowing me to complete the hands-on components of this Data Challenge.
 
           Their support made it possible for me to practice real Fabric workloads and complete the Microsoft Learn exercises included in this repository.
 
